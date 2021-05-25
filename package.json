@@ -1,0 +1,11 @@
+{
+    "name": "eduardo",
+    "version":"0.0.1",
+    "description": "algo",
+    "main":"dist/index.js",
+    "types":"dist/index.d.ts",
+    "scripts": {
+        "build":"tsc"
+    }
+
+}
